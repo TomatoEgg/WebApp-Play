@@ -1,0 +1,7 @@
+New log file opened at Sun Sep 11 14:41:46 CEST 2016 by 29109@jun-Aspire-V3-571G
+Taking next connection to: 46916
+New client attempting to connect on port: 41169-46916
+  Address = /127.0.1.1:46916
+This client on port 41169 has uuid 06f44ece-d4df-4880-b569-fd7b92c6889b configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-06f44ece-d4df-4880-b569-fd7b92c6889b
+Taking next connection to: 46916
